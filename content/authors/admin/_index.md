@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Francesco Mazzola
 
 # Username (this should match the folder name)
 authors:
@@ -10,31 +10,31 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Candidate in Finance
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Rotterdam School of Management - Erasmus University
+  url: "https://www.rsm.nl/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests span across different sides of Financial Intermediation, including Banking, Macro Finance and Growth and Corporate Finance.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Banking
+- Macro Finance
+- Corporate Finance
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Finance
+    institution: Rotterdam School of Management, Erasmus University
+    year: ongoing
+  - course: Double M.Sc. in Finance
+    institution: LUISS Guido Carli - Nova School of Business and Economics
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: B.Sc. in Economics
+    institution: LUISS Guido Carli
     year: 2008
 
 # Social/Academic Networking
@@ -44,16 +44,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:mazzola@rsm.nl".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://twitter.com/francemaz4
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +64,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Francesco Mazzola is a PhD candidate in Finance at Rotterdam School of Management, Erasmus University. Under the supervision of Prof. Wolf Wagner and Dr. Dion Bongaerts, Francesco is working on research that covers banking theory, financial regulation, and market illiquidity. 
+He has previously worked for the European Central Bank in the Macroprudential Policies Directorate, has received the "particularly deserving" B.Stringher scholarship by the Bank of Italy and the International program award by the Unicredit&Universities foundation. Francesco holds a double-degree MSc in Finance from Nova School of Business and Economics, in Lisbon, and LUISS Guido Carli University, in Rome. 
