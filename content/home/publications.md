@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Recent Publications"
+title = "Working papers"
 subtitle = ""
 
 [content]
@@ -25,10 +25,10 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
+    tag = "Fire Sale Risk"
     category = ""
     publication_type = ""
-    author = ""
+    author = "Dion Bongaerts, Francesco Mazzola and Wolf Wagner"
     exclude_featured = false
   
 [design]
@@ -46,7 +46,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
     
   # Background color.
-  # color = "navy"
+   color = "navy"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
