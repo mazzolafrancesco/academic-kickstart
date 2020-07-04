@@ -65,4 +65,5 @@ user_groups:
 ---
 
 Francesco Mazzola is a PhD candidate in Finance at Rotterdam School of Management, Erasmus University. Under the supervision of Prof. Wolf Wagner and Dr. Dion Bongaerts, Francesco is working on research that covers banking theory, financial regulation, and market illiquidity. 
+
 He has previously worked for the European Central Bank in the Macroprudential Policies Directorate, has received the "particularly deserving" B.Stringher scholarship by the Bank of Italy and the International program award by the Unicredit&Universities foundation. Francesco holds a double-degree MSc in Finance from Nova School of Business and Economics, in Lisbon, and LUISS Guido Carli University, in Rome. 
